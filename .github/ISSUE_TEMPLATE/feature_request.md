@@ -14,6 +14,9 @@ A clear and concise description of what the feature POV is Intended with.
 A clear and concise description of what you want to happen.
 
 **So that** [Use Case]
+- Given :
+- When : 
+- Then :
 A clear and concise description of any alternative solutions or features you've considered.
 
 **Additional context**
